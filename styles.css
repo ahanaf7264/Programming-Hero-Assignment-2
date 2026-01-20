@@ -75,11 +75,10 @@ font-size: 4rem;
 }
 
 .podcast-paragraph{
-    color: #FFFFFF;
+    color: #bca5a5;
     opacity: 0.6;
     font-size: 1rem;
     font-weight: 400;
-    /* max-width: 1200px; */
     text-align: center;
 }
 
